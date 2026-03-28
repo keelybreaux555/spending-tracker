@@ -10,8 +10,8 @@ A simple Python program that allows users to input expenses and calculates the t
 - Shows spending breakdown by category
 
 ## Example Output
-Food: $20
-Gas: $50
+Food: $20<br>
+Gas: $50<br>
 Coffee: $15
 
 Total spent: 85.0
