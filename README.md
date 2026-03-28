@@ -12,7 +12,7 @@ A simple Python program that allows users to input expenses and calculates the t
 ## Example Output
 Food: $20
 Gas: $50
-Coffee:$15
+Coffee: $15
 
 Total spent: 85.0
 
