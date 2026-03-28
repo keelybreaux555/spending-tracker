@@ -7,8 +7,13 @@ A simple Python program that allows users to input expenses and calculates the t
 - Add multiple expenses
 - Categorize spending (food, gas, etc.)
 - Calculates total spending
+- Shows spending breakdown by category
 
 ## Example Output
+Food: $20
+Gas: $50
+Coffee:$15
+
 Total spent: 85.0
 
 ## What I Learned
@@ -20,3 +25,13 @@ Total spent: 85.0
 ## How to Run
 1. Open terminal
 2. Run: python spending_tracker.py
+
+## Versions
+
+**v1**
+- Basic spending tracker
+- Calculates total only
+
+**v2**
+- Added category breakdown
+- Improved output formatting
